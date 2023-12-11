@@ -1,0 +1,75 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 70px;
+}
+.s1{
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.s2{
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.s3{
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 50px;
+    text-shadow:0px 3px rgb(158, 70, 247) ;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.s4{
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nava{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+.nava:hover {
+    text-decoration: underline;
+    color: rgb(253, 36, 224);
+}
+.p1{
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.p2{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.div-mess{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+    }
+    .im-m{
+        width: 80px;
+        height: 40px;
+        padding-right: 20px;
+    }
+body{
+    color: white;
+    background-color: black;
+}
